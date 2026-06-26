@@ -31,7 +31,7 @@ The ROV is capable of underwater navigation, monitoring, object detection, objec
 ## 🎥 Project Demo
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1eNbTYLHOV6siXLDJm678dGMc4T0weMIo/view?usp=drive_link" width="600">
+  <img src="https://youtube.com/shorts/WbOWG9kYdfE?feature=share" width="600">
   <img src="https://drive.google.com/file/d/1JGm5CXS9aHjsLOThTFV7esSGFOluy5YN/view?usp=drive_link" width="600">
   <img src="https://drive.google.com/file/d/1UT44dOcgSB7tnsaErNo7U1zFYMxtazGr/view?usp=drive_link" width="600">
 </p>
