@@ -1,7 +1,7 @@
 # 🌊 HYDROTRON ROV
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1PpdWt7SmfG3AF1qcgTi1oC3KoG1yuonS/view?usp=sharing" width="500">
+  <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/photo_2024-05-24_22-41-51.jpg?raw=true" width="500">
 </p>
 
 ## 📌 About The Project
