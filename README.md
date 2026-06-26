@@ -155,6 +155,6 @@ HYDROTRON-ROV/
 # ⚙️ System Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamed-alshamy/HYDROTRON-ROV-/main/photo_2024-05-24_22-41-51.jpg" width="500">
+  <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/SID.png?raw=true" width="500">
 </p>
          
