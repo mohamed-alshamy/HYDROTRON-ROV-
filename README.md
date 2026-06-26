@@ -48,6 +48,26 @@ The ROV is capable of underwater navigation, monitoring, object detection, objec
 
 ---
 
+## 🏆 Competitions & Achievements
+
+<p align="center">
+  <a href="https://materovcompetition.org/" target="_blank">
+    <img src="https://20693798.fs1.hubspotusercontent-na1.net/hub/20693798/hubfs/MATEROV/logos/materovcompetition-logo.jpg?width=200&height=100&name=materovcompetition-logo.jpg" 
+         alt="MATE ROV" width="100" height="100"/>
+  </a>
+</p>
+
+### 🌊 MATE ROV Competition 2024
+
+- 🏅 **4th Place**
+- Designed and developed **HYDROTRON ROV** for underwater robotics challenges.
+- Developed a complete ROV system including:
+  - Underwater navigation
+  - AI-based vision processing
+  - Robotic gripper manipulation
+  - Embedded control systems
+ 
+---
 ## 👥 Team
 
 <p align="center">
