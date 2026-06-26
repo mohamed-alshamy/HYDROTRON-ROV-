@@ -30,7 +30,21 @@ The ROV is capable of underwater navigation, monitoring, object detection, objec
 
 ## 🎥 Project Demo
 
-[![HYDROTRON ROV Demo](https://img.youtube.com/vi/WbOWG9kYdfE/0.jpg)](https://www.youtube.com/watch?v=WbOWG9kYdfE)
+<p align="center">
+
+<a href="https://www.youtube.com/watch?v=WbOWG9kYdfE">
+<img src="https://img.youtube.com/vi/WbOWG9kYdfE/0.jpg" width="300">
+</a>
+
+<a href="https://www.youtube.com/watch?v=ZktnqMIp0q0">
+<img src="https://img.youtube.com/vi/ZktnqMIp0q0/0.jpg" width="300">
+</a>
+
+<a href="https://www.youtube.com/watch?v=Zu1FL9fBIJU">
+<img src="https://img.youtube.com/vi/Zu1FL9fBIJU/0.jpg" width="300">
+</a>
+
+</p>
 
 ---
 
