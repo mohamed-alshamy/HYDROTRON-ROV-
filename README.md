@@ -48,6 +48,21 @@ The ROV is capable of underwater navigation, monitoring, object detection, objec
 
 ---
 
+## 👥 Team
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamed-alshamy/HYDROTRON-ROV-/main/Team.jpg" width="600">
+</p>
+
+| Name | Role |
+|------|------|
+| **Samir Tarek** | CEO & Electrical Leader |
+| **Mohamed Ayman** | COO & ROV Pilot |
+| **Mohamed Kaoud** | Mechanical Leader |
+| **Mohamed Alshamy** | CTO & ROV Co-Pilot |
+
+---
+
 # 🛠️ Hardware Components
 
 ## 🔹 Propulsion System
