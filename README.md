@@ -28,6 +28,14 @@ The ROV is capable of underwater navigation, monitoring, object detection, objec
 
 ---
 
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="YOUR_GIF_LINK" width="600">
+</p>
+
+---
+
 # 🛠️ Hardware Components
 
 ## 🔹 Propulsion System
@@ -136,31 +144,6 @@ The onboard Raspberry Pi processes camera data to enable:
 - Object tracking
 - Real-time underwater image analysis
 - Intelligent vision-based assistance
-
----
-
-# 📂 Project Structure
-
-HYDROTRON-ROV/
-      │
-├── Hardware/
-│ ├── Electronics
-│ ├── Mechanical Design
-│ └── Circuit Documentation
-      │
-├── Software/
-│ ├── Arduino Code
-│ ├── Raspberry Pi Code
-│ └── AI Models
-      │
-├── Images/
-│ └── Project Photos
-      │
-├── Documentation/
-│ └── Technical Documentation
-      │
-└── README.md
-
 
 ---
 
