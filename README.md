@@ -208,4 +208,28 @@ The onboard Raspberry Pi processes camera data to enable:
 <p align="center">
   <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/Pneumatic SID.png?raw=true" width="500">
 </p>
-         
+
+---
+
+## 🙏 Acknowledgment
+
+We would like to thank everyone who supported the development of **HYDROTRON ROV** and contributed to building this underwater robotic system.
+
+Special thanks to our mentors, supporters, and the robotics community for their guidance and continuous support.
+
+---
+
+## 📬 Contact
+
+For collaboration, questions, or more information:
+
+- GitHub: https://github.com/mohamed-alshamy
+- Project Repository: https://github.com/mohamed-alshamy/HYDROTRON-ROV-
+
+---
+
+## 📜 License
+
+This project is developed for educational, research, and robotics competition purposes.
+
+---
