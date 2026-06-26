@@ -1,7 +1,7 @@
 # 🌊 HYDROTRON ROV
 
 <p align="center">
-  <img src="YOUR_PROJECT_IMAGE_LINK" width="500">
+  <img src="https://drive.google.com/file/d/1PpdWt7SmfG3AF1qcgTi1oC3KoG1yuonS/view?usp=sharing" width="500">
 </p>
 
 ## 📌 About The Project
