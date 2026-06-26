@@ -85,14 +85,26 @@ Responsible for:
 
 ## 🔹 Robotic Gripper System
 
-The ROV contains **2 robotic grippers** for underwater manipulation.
+The ROV is equipped with **2 pneumatic robotic grippers** for underwater manipulation tasks.
 
-Each gripper includes:
+The gripper system consists of:
 
-- 3 valve control system
-- Valve for gripper movement
-- Additional valve control
-- Motor-controlled rotation system
+- **2 × Robotic Grippers**
+  - Each gripper is controlled by a dedicated pneumatic valve.
+  - Each valve controls the opening and closing movement of its corresponding gripper.
+
+- **1 × Rotation Motor**
+  - Responsible for controlling the grippers' rotation.
+  - Provides vertical and horizontal rotation movement.
+
+- **1 × Pneumatic Valve**
+  - Controls the rotation mechanism through the motor system.
+
+- **3 × Pneumatic Valves Total**
+  - 2 valves for gripper operation.
+  - 1 valve for gripper rotation control.
+
+All pneumatic valves are connected to an air compressor to provide the required pressure for the gripper operation.
 
 The grippers support:
 
