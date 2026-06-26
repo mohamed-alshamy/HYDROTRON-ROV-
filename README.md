@@ -142,23 +142,23 @@ The onboard Raspberry Pi processes camera data to enable:
 # 📂 Project Structure
 
 HYDROTRON-ROV/
-│
+      │
 ├── Hardware/
 │ ├── Electronics
 │ ├── Mechanical Design
 │ └── Circuit Documentation
-│
+      │
 ├── Software/
 │ ├── Arduino Code
 │ ├── Raspberry Pi Code
 │ └── AI Models
-│
+      │
 ├── Images/
 │ └── Project Photos
-│
+      │
 ├── Documentation/
 │ └── Technical Documentation
-│
+      │
 └── README.md
 
 
@@ -168,5 +168,14 @@ HYDROTRON-ROV/
 
 <p align="center">
   <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/SID.png?raw=true" width="500">
+</p>
+
+
+---
+
+# ⚙️ Pneumatic Architecture
+
+<p align="center">
+  <img src="https://github.com/mohamed-alshamy/HYDROTRON-ROV-/blob/main/Pneumatic SID.png?raw=true" width="500">
 </p>
          
